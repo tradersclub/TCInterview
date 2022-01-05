@@ -7,7 +7,7 @@ Esse aqui é o repositório que faz parte das nossas fases de contratação.
 
 O processo aqui é formado de 5 etapas.
 
-![fluxo de contratação](./how_it_works.png)
+![fluxo de contratação](./how_it_works.jpg)
 
 
 O host que estiver entrevistando você irá explicar como vai funcionar a dinâmica. 
